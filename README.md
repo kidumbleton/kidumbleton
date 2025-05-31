@@ -9,5 +9,4 @@
 * Here's a work by (or based on instructions from?) Sol Lewitt. "The idea becomes a machine that makes the art." <a href="https://www.guggenheim.org/teaching-materials/singular-forms-sometimes-repeated-art-from-1951-to-the-present/sol-lewitt-1928-2007#:~:text=a%20perfunctory%20affair.-,The%20idea,-becomes%20a%20machine">Sol Lewitt</a>
 <br>
 <img src="sl2.png" alt="from Sol Lewitt" width="400" height ="400">
-<br>
 <em>click <a href="https://www.moma.org/collection/works/17626">here</a> to go to the source<em>
