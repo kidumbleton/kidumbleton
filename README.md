@@ -1,4 +1,4 @@
-# Welcome 🐒	
+# Welcome <img src="alien.png" alt="alien emoji" width="30" height="30">	
 
 * I teach at Westinghouse College Prep in Chicago's Garfield Park neighborhood
 * Texas Instruments 99/4
@@ -10,4 +10,4 @@
 <br>
 <em>click the image to go to the source<em>
 <br>
-<a href="https://www.moma.org/collection/works/17626"><img src="sl2.png" alt="from Sol Lewitt" width="350" height ="350"></a>
+<a href="https://www.moma.org/collection/works/17626"><img src="sl2.png" alt="from Sol Lewitt" width="300" height ="300"></a>
